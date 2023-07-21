@@ -1,10 +1,9 @@
 # Halo semua!
 
 Perkenalkan nama saya **Riski Rahmat Hia**.\
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riski-rahmat-hia-05234823a/)ku ya.
+Saya seorang **Penulis Blog** di [Routine.my.id](https://www.routine.my.id/).\
+Saya Juga aktif dalam membangun personal website milik saya [RiskiHia.my.id](http://riskihia.my.id/).\
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riski-rahmat-hia-05234823a/) ku ya.
 
 <p align="left">
 <a href="https://github.com/riskihia">
